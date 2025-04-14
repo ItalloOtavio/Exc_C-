@@ -6,6 +6,7 @@
        // Preco.Executar();
        // Trapezio.Executar();
        // Funcionario.Executar();
-       Raio.Executar();
+       // Raio.Executar();
+       Angulo.Executar();
     }
 }
