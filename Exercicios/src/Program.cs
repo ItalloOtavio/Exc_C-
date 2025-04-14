@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Ponderada.Executar();
+       // Ponderada.Executar();
+       Preco.Executar();
     }
 }
