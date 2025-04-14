@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MASTER\\Documents\\PUC MINAS\\Exercicios\\Exc_C-\\Exercicio1\\Exercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\MASTER\\Documents\\PUC MINAS\\Exercicios\\Exc_C-\\Exercicios\\Exercicio1.csproj",
       "projectName": "Exercicio1",
-      "projectPath": "C:\\Users\\MASTER\\Documents\\PUC MINAS\\Exercicios\\Exc_C-\\Exercicio1\\Exercicio1.csproj",
+      "projectPath": "C:\\Users\\MASTER\\Documents\\PUC MINAS\\Exercicios\\Exc_C-\\Exercicios\\Exercicio1.csproj",
       "packagesPath": "C:\\Users\\MASTER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MASTER\\Documents\\PUC MINAS\\Exercicios\\Exc_C-\\Exercicio1\\obj\\",
+      "outputPath": "C:\\Users\\MASTER\\Documents\\PUC MINAS\\Exercicios\\Exc_C-\\Exercicios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

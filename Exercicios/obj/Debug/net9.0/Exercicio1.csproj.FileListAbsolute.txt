@@ -1,0 +1,15 @@
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\bin\Debug\net9.0\Exercicio1.exe
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\bin\Debug\net9.0\Exercicio1.deps.json
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\bin\Debug\net9.0\Exercicio1.runtimeconfig.json
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\bin\Debug\net9.0\Exercicio1.dll
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\bin\Debug\net9.0\Exercicio1.pdb
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\Exercicio1.AssemblyInfo.cs
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\Exercicio1.sourcelink.json
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\Exercicio1.dll
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\refint\Exercicio1.dll
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\Exercicio1.pdb
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\Exercicio1.genruntimeconfig.cache
+C:\Users\MASTER\Documents\PUC MINAS\Exercicios\Exc_C-\Exercicios\obj\Debug\net9.0\ref\Exercicio1.dll
