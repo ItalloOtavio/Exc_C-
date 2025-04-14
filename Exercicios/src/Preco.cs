@@ -5,7 +5,7 @@ class Preco
         sabendo-se que este sofreu um desconto de 10%.*/
 
         Console.WriteLine("Digite o Preço do produto:");
-        double produto = double.Parse(Console.ReadLine());
+        double produto = double.Parse(Console.ReadLine()!);
         
         double preco, desconto=0;
 

@@ -5,6 +5,7 @@
        // Ponderada.Executar();
        // Preco.Executar();
        // Trapezio.Executar();
-       Funcionario.Executar();
+       // Funcionario.Executar();
+       Raio.Executar();
     }
 }

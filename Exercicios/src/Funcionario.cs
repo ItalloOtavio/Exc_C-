@@ -8,9 +8,9 @@ class Funcionario
         double salariominimo = 0, funcionario = 0, qtd;
 
         Console.WriteLine("Digite o salario minimo atual:");
-        salariominimo = double.Parse(Console.ReadLine());
+        salariominimo = double.Parse(Console.ReadLine()!);
         Console.WriteLine("Salario do Funcionario:");
-        funcionario = double.Parse(Console.ReadLine());
+        funcionario = double.Parse(Console.ReadLine()!);
 
         qtd = funcionario / salariominimo;
 

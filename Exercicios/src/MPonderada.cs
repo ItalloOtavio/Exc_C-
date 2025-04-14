@@ -7,9 +7,9 @@ class Ponderada
         double nota1, nota2, resultado=0, soma=0;
 
         Console.WriteLine("Digite a 1° nota:");
-        nota1 = double.Parse(Console.ReadLine());
+        nota1 = double.Parse(Console.ReadLine()!);
         Console.WriteLine("Digite a 2° nota:");
-        nota2 = double.Parse(Console.ReadLine());
+        nota2 = double.Parse(Console.ReadLine()!);
 
         soma = (nota1 * 2) + (nota2 * 3);
         resultado = soma / (2 + 3);
