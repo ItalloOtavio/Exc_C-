@@ -3,6 +3,7 @@
     private static void Main(string[] args)
     {
        // Ponderada.Executar();
-       Preco.Executar();
+       // Preco.Executar();
+       Trapezio.Executar();
     }
 }
