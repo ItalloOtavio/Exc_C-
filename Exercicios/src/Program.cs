@@ -4,6 +4,7 @@
     {
        // Ponderada.Executar();
        // Preco.Executar();
-       Trapezio.Executar();
+       // Trapezio.Executar();
+       Funcionario.Executar();
     }
 }
