@@ -9,6 +9,7 @@
        // Raio.Executar();
        // Angulo.Executar();
        // Raizes.Executar();
-       Notas.Executar();
+       // Notas.Executar();
+       Horas_M_S.Executar();
     }
 }
