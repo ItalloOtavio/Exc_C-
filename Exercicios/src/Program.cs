@@ -7,6 +7,7 @@
        // Trapezio.Executar();
        // Funcionario.Executar();
        // Raio.Executar();
-       Angulo.Executar();
+       // Angulo.Executar();
+       Raizes.Executar();
     }
 }
