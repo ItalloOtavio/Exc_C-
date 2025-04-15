@@ -8,6 +8,7 @@
        // Funcionario.Executar();
        // Raio.Executar();
        // Angulo.Executar();
-       Raizes.Executar();
+       // Raizes.Executar();
+       Notas.Executar();
     }
 }
