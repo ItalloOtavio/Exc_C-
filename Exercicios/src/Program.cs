@@ -18,6 +18,7 @@
        // PesoIdeal.Executar();
        // BonusNatal.Executar();
        // Bissexto.Executar();
-       AlunoAprovado.Executar();
+       // AlunoAprovado.Executar();
+       OrigemProduto.Executar();
     }
 }
