@@ -15,6 +15,7 @@
        // Maior.Executar();
        // Crescente.Executar();
        // Iguais.Executar();
-       PesoIdeal.Executar();
+       // PesoIdeal.Executar();
+       BonusNatal.Executar();
     }
 }
