@@ -13,6 +13,7 @@
        // Horas_M_S.Executar();
        // Segundos.Executar();
        // Maior.Executar();
-       Crescente.Executar();
+       // Crescente.Executar();
+       Iguais.Executar();
     }
 }
