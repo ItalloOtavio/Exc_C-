@@ -12,6 +12,7 @@
        // Notas.Executar();
        // Horas_M_S.Executar();
        // Segundos.Executar();
-       Maior.Executar();
+       // Maior.Executar();
+       Crescente.Executar();
     }
 }
