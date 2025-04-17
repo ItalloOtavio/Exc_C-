@@ -11,6 +11,7 @@
        // Raizes.Executar();
        // Notas.Executar();
        // Horas_M_S.Executar();
-       Segundos.Executar();
+       // Segundos.Executar();
+       Maior.Executar();
     }
 }
