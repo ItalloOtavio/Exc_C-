@@ -14,6 +14,7 @@
        // Segundos.Executar();
        // Maior.Executar();
        // Crescente.Executar();
-       Iguais.Executar();
+       // Iguais.Executar();
+       PesoIdeal.Executar();
     }
 }
