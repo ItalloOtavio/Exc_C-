@@ -16,6 +16,7 @@
        // Crescente.Executar();
        // Iguais.Executar();
        // PesoIdeal.Executar();
-       BonusNatal.Executar();
+       // BonusNatal.Executar();
+       Bissexto.Executar();
     }
 }
