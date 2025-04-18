@@ -19,6 +19,7 @@
        // BonusNatal.Executar();
        // Bissexto.Executar();
        // AlunoAprovado.Executar();
-       OrigemProduto.Executar();
+       // OrigemProduto.Executar();
+       Nadador.Executar();
     }
 }
