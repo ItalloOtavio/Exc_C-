@@ -26,6 +26,7 @@
        // ImprimirCinco.Executar();
        // RepetindoNumero.Executar();
        // Maiores100.Executar();
-       Tabuada8.Executar();
+       // Tabuada8.Executar();
+       QtdNegativo.Executar();
     }
 }
