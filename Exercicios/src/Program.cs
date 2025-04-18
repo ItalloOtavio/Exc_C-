@@ -23,6 +23,7 @@
        // Nadador.Executar();
        // CPF.Executar(); // Dificuldade na realização do exercicio
        // ZeroAdez.Executar();
-       ImprimirCinco.Executar();
+       // ImprimirCinco.Executar();
+       RepetindoNumero.Executar();
     }
 }
