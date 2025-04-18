@@ -24,6 +24,7 @@
        // CPF.Executar(); // Dificuldade na realização do exercicio
        // ZeroAdez.Executar();
        // ImprimirCinco.Executar();
-       RepetindoNumero.Executar();
+       // RepetindoNumero.Executar();
+       Maiores100.Executar();
     }
 }
