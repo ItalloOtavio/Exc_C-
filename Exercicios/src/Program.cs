@@ -20,6 +20,8 @@
        // Bissexto.Executar();
        // AlunoAprovado.Executar();
        // OrigemProduto.Executar();
-       Nadador.Executar();
+       // Nadador.Executar();
+       // CPF.Executar(); // Dificuldade na realização do exercicio
+       ZeroAdez.Executar();
     }
 }
