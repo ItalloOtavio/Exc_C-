@@ -27,6 +27,7 @@
        // RepetindoNumero.Executar();
        // Maiores100.Executar();
        // Tabuada8.Executar();
-       QtdNegativo.Executar();
+       // QtdNegativo.Executar();
+       AritmeticaAlunos.Executar();
     }
 }
