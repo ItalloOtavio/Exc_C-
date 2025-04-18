@@ -25,6 +25,7 @@
        // ZeroAdez.Executar();
        // ImprimirCinco.Executar();
        // RepetindoNumero.Executar();
-       Maiores100.Executar();
+       // Maiores100.Executar();
+       Tabuada8.Executar();
     }
 }
