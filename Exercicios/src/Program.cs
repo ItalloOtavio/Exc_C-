@@ -29,6 +29,7 @@
        // Tabuada8.Executar();
        // QtdNegativo.Executar();
        // AritmeticaAlunos.Executar();
-       NegPos.Executar();
+       // NegPos.Executar();
+       Lucro.Executar();
     }
 }
