@@ -10,22 +10,32 @@ class PesquisaMercado
         a porcentagem de pessoas do sexo feminino que responderam sim;
         a porcentagem de pessoas do sexo masculino que responderam não.
 */
-        int op = 0, sexo;
+        string resposta = "";
+        char sexo;
         int sim = 0, nao = 0;
-        for(int i = 0; i < 2000; i++){
-            Console.WriteLine("10 - Masculino");
-            Console.WriteLine("11 - Feminino");
-            sexo = int.Parse(Console.ReadLine()!);
-            Console.WriteLine("Voce gostou do novo produto?");
-            Console.WriteLine("1 - Sim");
-            Console.WriteLine("2 - Nao");
-            op = int.Parse(Console.ReadLine()!);
+        int mas = 0, fem = 0;
+        for(int i = 0; i < 10; i++){  
+            Console.WriteLine("Digite o seu sexo : (M/F)");
+            sexo = char.Parse(Console.ReadLine()!);
+        if(sexo == 'M'){
+            mas++;
+        }else if(sexo == 'F'){
+            fem++;
         }
-        if(op == 1){
+            Console.WriteLine("Voce gostou do novo produto? (S/N)");
+            resposta = (Console.ReadLine()!);
+        
+        if(resposta == "S"){
             sim++;
-        }else{
+        }else if(resposta == "N"){
             nao++;
         }
-
+        }
+            double porcentagemM = mas * 100.0 / 2000;
+            double porcentagemF = fem * 100.0 / 2000;
+            Console.WriteLine($"Sexo Maculino: {porcentagemM}");
+            Console.WriteLine($"Sexo Feminino: {porcentagemF}");
+            Console.WriteLine($"Respostas SIM: {sim}");
+            Console.WriteLine($"Respostas NAO: {nao}");
     }
 }

@@ -30,6 +30,7 @@
        // QtdNegativo.Executar();
        // AritmeticaAlunos.Executar();
        // NegPos.Executar();
-       Lucro.Executar();
+       // Lucro.Executar();
+       PesquisaMercado.Executar();
     }
 }
