@@ -32,6 +32,7 @@
        // NegPos.Executar();
        // Lucro.Executar();
        // PesquisaMercado.Executar();
-       DataDiasMesesAnos.Executar();
+       // DataDiasMesesAnos.Executar();
+       Fahrenheit.Executar();
     }
 }
