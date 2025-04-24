@@ -34,6 +34,7 @@
        // PesquisaMercado.Executar();
        // DataDiasMesesAnos.Executar();
        // Fahrenheit.Executar();
-       Fibonacci.Executar();
+       // Fibonacci.Executar();
+       Fatorial.Executar();
     }
 }
