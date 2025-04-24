@@ -33,6 +33,7 @@
        // Lucro.Executar();
        // PesquisaMercado.Executar();
        // DataDiasMesesAnos.Executar();
-       Fahrenheit.Executar();
+       // Fahrenheit.Executar();
+       Fibonacci.Executar();
     }
 }
