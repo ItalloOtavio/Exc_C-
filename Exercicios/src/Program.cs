@@ -31,6 +31,7 @@
        // AritmeticaAlunos.Executar();
        // NegPos.Executar();
        // Lucro.Executar();
-       PesquisaMercado.Executar();
+       // PesquisaMercado.Executar();
+       DataDiasMesesAnos.Executar();
     }
 }
