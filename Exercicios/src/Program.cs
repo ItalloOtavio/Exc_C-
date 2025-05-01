@@ -35,6 +35,7 @@
        // DataDiasMesesAnos.Executar();
        // Fahrenheit.Executar();
        // Fibonacci.Executar();
-       Fatorial.Executar();
+       // Fatorial.Executar();
+       NPositivo.Executar();
     }
 }
