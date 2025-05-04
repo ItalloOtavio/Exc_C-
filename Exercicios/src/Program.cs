@@ -36,6 +36,7 @@
        // Fahrenheit.Executar();
        // Fibonacci.Executar();
        // Fatorial.Executar();
-       NPositivo.Executar();
+       // NPositivo.Executar();
+       MaiorMenorPos.Executar();
     }
 }
