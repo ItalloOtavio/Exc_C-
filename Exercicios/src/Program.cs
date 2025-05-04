@@ -37,6 +37,7 @@
        // Fibonacci.Executar();
        // Fatorial.Executar();
        // NPositivo.Executar();
-       MaiorMenorPos.Executar();
+       // MaiorMenorPos.Executar();
+       NegativoNulo.Executar();
     }
 }
